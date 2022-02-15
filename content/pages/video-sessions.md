@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Video Sessions
-type: CourseSection
 uid: 485b4a21-dd80-b356-7ae4-1b6e1023bae7
 ---
 
