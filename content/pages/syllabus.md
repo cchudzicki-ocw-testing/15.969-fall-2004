@@ -20,7 +20,7 @@ The first two weeks will be an overview of performing improvisation with introdu
 
 ### Course Readings
 
-The readings are all listed in the {{< resource_link 585c1274-708b-f074-c515-018079c3a1b2 "readings" >}} section. Each reading is important as we'll be doing exercises based on their content. This means: you will be expected to talk about the material. Be prepared.
+The readings are all listed in the {{% resource_link 585c1274-708b-f074-c515-018079c3a1b2 "readings" %}} section. Each reading is important as we'll be doing exercises based on their content. This means: you will be expected to talk about the material. Be prepared.
 
 ### OpenCourseWare
 
