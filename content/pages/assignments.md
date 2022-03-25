@@ -24,3 +24,13 @@ In your managerial experience, there presumably have been numerous times where y
 3) Present it to the class - one person should act as the 'professor' and the others will be the actors for the presentation.
 
 4) You have a total of 6 minutes per presentation to introduce yourselves, present and take any questions from the class.
+
+Stripped Test:
+
+1) Form groups of 4-6.
+
+2) Decide on a time where improvisation in business was important.
+
+3) Present it to the class - one person should act as the 'professor' and the others will be the actors for the presentation.
+
+4) You have a total of 6 minutes per presentation to introduce yourselves, present and take any questions from the class.
