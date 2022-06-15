@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides video recordings of lectures by Prof. Balachandra
+  and student improvisation presentations. Student work is used with permission.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

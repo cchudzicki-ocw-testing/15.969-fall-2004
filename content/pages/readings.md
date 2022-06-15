@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides bibliographic citations of important readings for
+  the course.
 draft: false
 learning_resource_types:
 - Readings

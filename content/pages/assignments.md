@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the paper assignment and final
+  presentation for the course.
 draft: false
 learning_resource_types:
 - Assignments
